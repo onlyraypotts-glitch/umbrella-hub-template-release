@@ -1,0 +1,2 @@
+# Pinned PUBLIC release commit used by the team installer (template-team, release team-v1.0). Functional pin, not a review id.
+cf72cc200d50c958b4865b341ecd60cdaba4ac61

@@ -1,0 +1,1 @@
+A 7-bot crypto research and trading desk (HQ plus 6 specialists) for Solana, Base and Ethereum, with optional Robinhood, that finds, vets and scores opportunities, then sends you move cards or trades from a capped wallet. Security and risk vetoes can't be outvoted, NO TRADE is a valid answer, and it never asks for seed phrases or moves money in or out.

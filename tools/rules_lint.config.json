@@ -1,0 +1,14 @@
+{
+ "roots": [
+  "protocols/**/*",
+  "playbooks/**/*",
+  "sources/**/*",
+  "brain/*.md",
+  "loop/**/*",
+  "routines/*.md",
+  "routines/**/*.txt"
+ ],
+ "archive": "_archive/",
+ "profiles": "agents/*/profile.json",
+ "automations": "agents/*/automations/**/*"
+}

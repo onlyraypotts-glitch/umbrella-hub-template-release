@@ -1,0 +1,1 @@
+Prediction (1.7.0-beta.5, before full run, UMBRELLA_DENY_TERMS set): devbridge 131, lease 33 x2, tools/tests 17 (16 + 1 deny/EVM/UUID), negative controls 13/13, rules lint 0, leak check 0, sha256 OK.
